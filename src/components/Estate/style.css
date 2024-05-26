@@ -1,0 +1,42 @@
+.estate-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center; 
+    background-color: #f0f0f0; 
+  }
+  
+  .estate-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .estate-text {
+    margin-bottom: 20px;
+  }
+  
+  .estate-info {
+    margin-bottom: 10px;
+  }
+  
+  .estate-info p {
+    margin: 5px 0;
+  }
+  
+  .estate-contact {
+    margin-bottom: 20px;
+  }
+  
+  .estate-contact p {
+    margin: 5px 0;
+    font-size: 14px; 
+  }
+  
+  .estate-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
